@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raveendra Padala</h1>
-<h3 align="center">A passionate frontend Mobile apps developer React Native & IOS</h3>
+<h3 align="center">A passionate frontend Mobile apps developer for React Native & IOS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padala2019&label=Profile%20views&color=0e75b6&style=flat" alt="padala2019" /> </p>
 
